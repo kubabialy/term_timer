@@ -5,6 +5,7 @@
 - [ ] Add full text like "3m32s remains" or something similar. Best if done from object mentioned above.
 - [ ] Add tests.
 - [x] Add readme.
+- [ ] Add error handling.
 - [ ] Add sound when timer is up.
 - [ ] Proper arguments handling and `--help` command as well.
 - [ ] Installation script?
